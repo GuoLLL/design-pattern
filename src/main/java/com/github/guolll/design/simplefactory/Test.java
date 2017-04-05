@@ -1,4 +1,4 @@
-package com.github.guolll.design.factory;
+package com.github.guolll.design.simplefactory;
 
 /**
  * Created by Mr.L on 2017/4/5 0005.
@@ -13,5 +13,6 @@ public class Test {
         clamPizza.bake();
         clamPizza.cut();
         clamPizza.bake();
+        clamPizza.box();
     }
 }

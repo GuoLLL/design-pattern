@@ -1,4 +1,4 @@
-package com.github.guolll.design.factory;
+package com.github.guolll.design.simplefactory;
 
 /**
  * Created by Mr.L on 2017/3/28 0028.

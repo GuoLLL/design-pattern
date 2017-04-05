@@ -1,4 +1,4 @@
-package com.github.guolll.design.factory;
+package com.github.guolll.design.simplefactory;
 
 /**
  *
