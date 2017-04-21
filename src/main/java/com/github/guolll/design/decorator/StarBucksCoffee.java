@@ -7,7 +7,7 @@ public class StarBucksCoffee {
     public static void main(String[] args) {
 
         Beverage beverage = new Espresso();//浓咖啡
-        System.out.println(beverage.description + ",$" + beverage.cost());
+        System.out.println(beverage.getDescription() + ",$" + beverage.cost());
 
         Beverage beverage1 = new DarkRoast();//烘焙咖啡
         beverage1 = new Milk(beverage1);//加牛奶
